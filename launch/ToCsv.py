@@ -26,7 +26,7 @@ def convert_sqlite_to_csv(inputFolder, ext, tableName):
 
 
 def main(argv):
-    inputFolder = '/home/my_bag1'  # change here
+    inputFolder = '/home/mistlab/ros2_ws/my_bag1'  # change here
     extension = 'db3'
     tableName = 'temperature'  # change here
 
